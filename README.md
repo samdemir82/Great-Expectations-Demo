@@ -26,3 +26,6 @@ Currently, this demo contains the following:
 * A `great_expectations.yml` file that's configured to use the top-level `data` directory as a Datasource. You will not need to set up anything to get it to work.
 * A single Expectation Suite, `taxi.demo`, containing a handful of simple Expectations
 * A Checkpoint `my_chk` that is set up to run the suite against the February data set
+
+![image](https://user-images.githubusercontent.com/115759745/197361534-b862c781-6bf5-4ad3-a2f3-f00d992006b2.png)
+
